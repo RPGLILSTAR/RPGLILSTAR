@@ -5,7 +5,7 @@ I'm a Chinese🐼 university student majoring in computer science and technology
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FFFF&lines=As+I+fill+my+book;What+a+waste+of+wood+......)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FF3E96&lines=Failure+always+runs+through+life......)
 
-
+![](https://raw.githubusercontent.com/RPGLILSTAR/RPGLILSTAR/main/assets/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPGLILSTAR)
 
