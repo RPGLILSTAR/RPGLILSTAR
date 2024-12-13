@@ -14,7 +14,11 @@ I'm a Chinese🐼 university student majoring in computer science and technology
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPGLILSTAR)
 ![](https://stats.justsong.cn/api/leetcode?username=rpglilstar&cn=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RPGLILSTAR&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGLILSTAR)
 
 ![](https://komarev.com/ghpvc/?username=RPGLILSTAR&color=ff69b4)
+![Static Badge](https://img.shields.io/badge/GitHub-RPGLILSTAR-blue)
+
 
