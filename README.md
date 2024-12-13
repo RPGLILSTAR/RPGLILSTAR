@@ -12,7 +12,8 @@ I'm a Chinese🐼 university student majoring in computer science and technology
 </picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPGLILSTAR)
+![](https://stats.justsong.cn/api/leetcode?username=rpglilstar&cn=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGLILSTAR)
 
-![](https://stats.justsong.cn/api/leetcode?username=RPGLILSTAR&cn=true)
+
