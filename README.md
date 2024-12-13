@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+## About Me ✨
+I'm a Chinese🐼 university student majoring in computer science and technology, who enjoy playing video games🎮 and watching various sports events🏀⚽.
+## Some emo sharing 😫🥹🤡
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=00FFFF&lines=As+I+fill+my+book;What+a+waste+of+wood+......)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FF3E96&lines=Failure+always+runs+through+life......)
 
-<!--
-**RPGLILSTAR/RPGLILSTAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPGLILSTAR)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGLILSTAR)
+
+![](https://stats.justsong.cn/api/leetcode?username=RPGLILSTAR&cn=true)
