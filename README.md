@@ -16,4 +16,5 @@ I'm a Chinese🐼 university student majoring in computer science and technology
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGLILSTAR)
 
+![](https://komarev.com/ghpvc/?username=RPGLILSTAR&color=ff69b4)
 
