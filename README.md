@@ -1,4 +1,5 @@
-# Hi there 👋
+![header](https://capsule-render.vercel.app/api?&fontColor=FFFFFF&height=250&type=waving&color=timeGradient&animation=twinkling&text=Hi%20There!-nl-I%20am%20RPGLILSTAR)
+![Typing SVG](https://readme-typing-svg.demolab.com/?&color=EB55F7FF&height=90&width=900&size=40&font=Fira+Code&vCenter=true&center=true&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的GitHub主页!)
 ## About Me ✨
 I'm a Chinese🐼 university student majoring in computer science and technology, who enjoy playing video games🎮 and watching various sports events🏀⚽.
 ## Some emo sharing 😫🥹🤡
